@@ -1,5 +1,6 @@
 
 public class Ex3 {
+	//Jordi Sobreals Alfaro
 	public static void main(String[] args) { 
 		printOne(); 
 		printOne(); 
